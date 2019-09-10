@@ -4,7 +4,9 @@
     "target": "es6",
     "module": "commonjs",
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "reactNamespace": "JSX"
   },
   "files": [
     "hello.ts"
